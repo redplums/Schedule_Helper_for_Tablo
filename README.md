@@ -4,6 +4,7 @@ Schedule_Helper_for_Tablo (SHfT) is a Python 3 program that allows you to search
 * Python 3 (tested with Python 3.10)
 * Legacy Tablo (**not** a Tablo Gen 4)
 	* Author only tested with Tablo 2-tuner network model with guide subscription
+ 	* Check <a href=https://support.tablotv.com/hc/en-us/articles/15541820674580-Tablo-FAQs-A-Comprehensive-List#01HYXXXZGRASM22WPFAYZSMNC5>Tablo's website</a> for information on which device you have.  
 * Recommended - assign your Tablo a static IP on your home network, otherwise the program will not work if the IP address changes without re-entry
 
 ### Usage
